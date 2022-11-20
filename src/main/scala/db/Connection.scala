@@ -1,4 +1,4 @@
-package dateBase
+package db
 import slick.jdbc.PostgresProfile.profile.api._
 
 object Connection {
